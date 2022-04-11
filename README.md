@@ -1,6 +1,6 @@
 ### Welcome! Shake the dust off and have a seat :seat:.
 
-My name is Syrym, and I'm currently working as a Senior Software Engineer at <a href="https://github.com/yandex">Yandex</a>.
+My name is Syrym, and I'm a Software Engineer.
 - :gem: I Love to learn and implement non-trivial concepts.
 - :feelsgood: Staying on the edge of my expertise and pushing it further. 
 - :microscope: Consistently exploring and learning new stuff in field of Computer Science.
